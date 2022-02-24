@@ -55,7 +55,7 @@ aside {
     height: 100vh;
     width: 53vw;
     margin: 0 0 0 47vw;
-    background-image: url(./assets/read_news.jpg);
+    background-image: url('assets/read_news.jpg');
     background-size: cover;
     background-position: right;
     background-repeat: no-repeat;
@@ -99,7 +99,7 @@ a {
     color: #8257e5;
 }
 a::after {
-    content: url(./assets/arrow-right.svg);
+    content: url('assets/arrow-right.svg');
     height: 10px;
     width: 10px;
 }
