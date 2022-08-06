@@ -13,4 +13,4 @@
 <p>Manipulation of different backgrounds.<br> Use of "forms" in HTML and its personalization with CSS.<br> Use of pseudo-elements "::after" and "::before".<br> Different previews in mobile and desktop verson through media queries.</p>
 
 <h3>License</h3>
-<p>This project is under <a target="_blank" href="https://github.com/marcelofgaraujo/RocketNews_challenge/blob/main/LICENSE">MIT License</a>.</p>
+<p>This project is under <a target="_blank" href="https://github.com/marcelofgaraujo/RocketNews_challenge/blob/main/LICENSE.md">MIT License</a>.</p>
